@@ -1,0 +1,134 @@
+{
+  "url": "https://www.cordonnerie-sion.ch",
+  "domain": "cordonnerie-sion.ch",
+  "scraped_at": "2026-06-02",
+  "company": {
+    "name": "Cordonnerie Multi-Services Sàrl",
+    "tagline": "Artisan-cordonnier à Sion",
+    "description": "La Cordonnerie Multi-Services Sàrl vous conseille du lundi au samedi, en plein cœur de Sion. Nous sommes partenaires officiels de Victorinox. Depuis 2004, notre cordonnerie met son expertise à votre service pour répondre à vos besoins en entretien et réparation. Nous vous conseillons en six langues.",
+    "founded": "2004",
+    "location": "Sion, Valais, Suisse"
+  },
+  "contact": {
+    "address": "Place du Midi 52, 1950 Sion, Valais, Suisse",
+    "phone": "027 322 00 92",
+    "fax": null,
+    "email": "infocordonnerie@netplus.ch",
+    "hours": {
+      "monday": "8:30 - 12:00",
+      "tuesday": "8:30 - 12:00 / 13:30 - 18:30",
+      "wednesday": "8:30 - 12:00 / 13:30 - 18:30",
+      "thursday": "8:30 - 12:00 / 13:30 - 18:30",
+      "friday": "8:30 - 12:00 / 13:30 - 18:30",
+      "saturday": "8:30 - 12:00 / 13:30 - 17:00",
+      "sunday": "Fermé"
+    }
+  },
+  "navigation": [
+    "Accueil",
+    "Nos services",
+    "Contact",
+    "Contactez-nous"
+  ],
+  "services": [
+    "Partenaire officiel Victorinox",
+    "Maroquinerie italienne de haute qualité (ceintures, sacs, porte-monnaie)",
+    "Cordonnerie - réparation chaussures (tiges, talons, semelles extérieures, semelles intérieures, fermetures éclairs, boucles)",
+    "Coutures diverses (fermetures éclairs pour vestes, etc.)",
+    "Duplication de clés (cylindres simples, clés spéciales protégées, clés de caves, clés de chambres)",
+    "Clés de voitures transpondeurs",
+    "Télécommandes de garages et portails",
+    "Coffres-forts",
+    "Gravures (boîtes aux lettres, porte d'entrée, plaques commerciales, stylos, bijoux, couteaux)",
+    "Vente de tampons Colop et Trodat",
+    "Piles de montre toutes marques",
+    "Bracelets de montre HIRSCH",
+    "Produits d'entretien pour chaussures",
+    "Aiguisage de couteaux et ciseaux",
+    "Coutellerie (Victorinox, Laguiole, Opinel, Thiers, Buck, Old Bear, CRK, Spyderco)",
+    "Entretien du cuir (semelles intérieures, lacets, embauchoirs, tendeurs de bottes, tire-bottes, coffrets cadeaux Famaco Paris)",
+    "Porte-cartes sécurisés Secrid",
+    "Sacs en cuir Old Tuscani (Chiarugi)"
+  ],
+  "products": [
+    {
+      "name": "Couteaux Victorinox",
+      "price": null,
+      "description": "Partenaire officiel Victorinox. 99% des modèles de couteaux de poche et de cuisine du catalogue disponibles."
+    },
+    {
+      "name": "Maroquinerie italienne",
+      "price": null,
+      "description": "Arrivage fréquent de maroquinerie italienne de haute qualité : ceintures en cuir, sacs en cuir Old Tuscani (Chiarugi), porte-monnaies, porte-clés."
+    },
+    {
+      "name": "Porte-cartes Secrid",
+      "price": null,
+      "description": "Porte-cartes sécurisés de la marque Secrid."
+    },
+    {
+      "name": "Bracelets de montre HIRSCH",
+      "price": null,
+      "description": "Large éventail de modèles et coloris de la marque HIRSCH."
+    },
+    {
+      "name": "Tampons Colop et Trodat",
+      "price": null,
+      "description": "Tous modèles avec options de typographie, taille et couleur personnalisées."
+    },
+    {
+      "name": "Coutellerie",
+      "price": null,
+      "description": "Laguiole, Opinel, Thiers, Buck, Old Bear, CRK, Spyderco en complément de Victorinox."
+    },
+    {
+      "name": "Coffrets cadeaux Famaco Paris",
+      "price": null,
+      "description": "Coffrets cadeaux pour l'entretien du cuir. Marques : Saphir, Famaco, Prestige, Ringelspitz."
+    }
+  ],
+  "social_links": {
+    "facebook": "https://www.facebook.com/cakolli7118/?fref=ts",
+    "_note": "Ces liens sont des réseaux sociaux uniquement. Ne PAS les utiliser comme méthodes de contact primaires."
+  },
+  "logo": {
+    "primary_url": "https://le-de.cdn-website.com/c7655ccd21fa48e39d5a322607a67e62/dms3rep/multi/opt/Cordonnerie-Multi-Services-Sarl-Logo-1920w.jpg",
+    "secondary_url": null,
+    "alt_text": "Cordonnerie-Multi-Services-Sarl-Logo",
+    "colors_extracted": []
+  },
+  "design": {
+    "colors_css": [],
+    "fonts": [],
+    "logo_url": "DEPRECATED — utiliser logo.primary_url"
+  },
+  "seo": {
+    "title": "Cordonnerie Multi-Services Sàrl | Sion",
+    "meta_description": "Artisan-cordonnier à Sion depuis 2004. Partenaire officiel Victorinox. Réparation chaussures, duplication clés, gravures, maroquinerie. Place du Midi 52, 1950 Sion.",
+    "keywords": [
+      "cordonnerie",
+      "Sion",
+      "Valais",
+      "Victorinox",
+      "réparation chaussures",
+      "duplication clés",
+      "gravures",
+      "maroquinerie",
+      "aiguisage"
+    ]
+  },
+  "pages_crawled": 5,
+  "site_structure": [
+    "/",
+    "/Nos-services",
+    "/contact",
+    "/privacy",
+    "/mentions-legales"
+  ],
+  "notes": {
+    "cms": "Site réalisé par localsearch.ch (sitefree.ch builder). CDN: le-de.cdn-website.com",
+    "rgpd": "Politique de confidentialité présente (/privacy). Mentions légales présentes (/mentions-legales). Pas de bannière cookie visible.",
+    "languages": "Conseil en 6 langues (non précisées sur le site)",
+    "total_pages": "Le sitemap confirme exactement 5 pages sur ce site."
+  }
+}

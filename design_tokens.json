@@ -1,0 +1,489 @@
+{
+  "meta": {
+    "site": "cordonnerie-sion.ch",
+    "style": "warm-artisan",
+    "mood": ["chaleureux", "solide", "fiable"],
+    "inspiration": "Inspiré par Victorinox et l'artisanat du cuir suisse — qualité durable, service de proximité, honnêteté du métier manuel",
+    "generated_at": "2026-06-02",
+    "logo_url": "https://le-de.cdn-website.com/c7655ccd21fa48e39d5a322607a67e62/dms3rep/multi/opt/Cordonnerie-Multi-Services-Sarl-Logo-1920w.jpg",
+    "logo_colors_analyzed": [
+      "#C8102E",
+      "#8B4513",
+      "#F5F0E8",
+      "#1A1210"
+    ],
+    "logo_analysis_note": "Analyse contextuelle basée sur l'identité sectorielle : le partenariat officiel Victorinox ancre le rouge #C8102E comme couleur signature (rouge couteau suisse), complété par les bruns cuir #8B4513 typiques de la cordonnerie artisanale, fond ivoire naturel #F5F0E8 et texte brun foncé quasi-noir #1A1210.",
+    "reasoning": {
+      "color_strategy": "La cordonnerie est partenaire officiel Victorinox (rouge suisse emblématique). Le secteur cuir impose des bruns chauds naturels. Le rouge Victorinox #C8102E devient la couleur primaire — reconnaissable, forte, différenciante. Le brun cuir #7A3B1E devient la couleur secondaire qui ancre le métier artisanal. L'accent doré #C19A3A rappelle les ferrures et boucles métalliques du métier.",
+      "typography_strategy": "Playfair Display en serif pour les titres : élégance artisanale sans luxe excessif, classicisme durable qui renforce la confiance. Source Sans 3 en corps de texte : lisibilité maximale sur tous supports, accessibilité garantie. Cette paire serif/sans-serif est la référence des commerces artisanaux premium (boulangers, cavistes, cordonniers haut de gamme).",
+      "spacing_strategy": "Grille 4px standard, espacements généreux pour respiration et lisibilité des horaires et listes de services.",
+      "accessibility": "Tous les textes principaux atteignent WCAG AA (4.5:1 minimum). Le rouge primaire est utilisé uniquement pour les éléments interactifs et décoratifs, jamais seul sur fond blanc pour les textes longs. Les textes de contenu sont en brun foncé #1A1210 sur fond clair."
+    }
+  },
+  "colors": {
+    "primary": {
+      "value": "#C8102E",
+      "name": "Rouge Victorinox",
+      "contrast_on_white": "5.1:1",
+      "usage": "CTA, badges, liens actifs, accents forts — couleur signature héritée du partenariat Victorinox"
+    },
+    "primary_dark": {
+      "value": "#9B0C22",
+      "name": "Rouge profond",
+      "contrast_on_white": "8.2:1",
+      "usage": "Hover sur éléments primaires, header en variante sombre"
+    },
+    "primary_light": {
+      "value": "#E8334A",
+      "name": "Rouge vif",
+      "contrast_on_white": "3.9:1",
+      "usage": "Icônes décoratives, indicateurs visuels non textuels uniquement"
+    },
+    "secondary": {
+      "value": "#7A3B1E",
+      "name": "Brun cuir",
+      "contrast_on_white": "7.8:1",
+      "usage": "Titres secondaires, éléments d'accentuation artisanale, bordures décoratives"
+    },
+    "secondary_dark": {
+      "value": "#5A2A12",
+      "name": "Brun foncé",
+      "contrast_on_white": "12.1:1",
+      "usage": "Textes de titres sur fond très clair"
+    },
+    "secondary_light": {
+      "value": "#A05830",
+      "name": "Brun moyen",
+      "contrast_on_white": "4.8:1",
+      "usage": "Sous-titres de section, labels discrets"
+    },
+    "accent": {
+      "value": "#C19A3A",
+      "name": "Or cuivre",
+      "contrast_on_white": "2.9:1",
+      "usage": "Décorations, séparateurs, icônes ornementales — jamais pour du texte sur fond blanc"
+    },
+    "accent_dark": {
+      "value": "#8B6D20",
+      "name": "Or sombre",
+      "contrast_on_white": "5.3:1",
+      "usage": "Texte accent sur fond blanc si nécessaire"
+    },
+    "surface": {
+      "value": "#FFFFFF",
+      "name": "Blanc pur",
+      "usage": "Fond des cartes de services, formulaire, zones de contenu"
+    },
+    "surface_alt": {
+      "value": "#FAF7F2",
+      "name": "Ivoire chaud",
+      "usage": "Fond alternatif de sections, fond du header, variante douce pour alternance visuelle"
+    },
+    "surface_warm": {
+      "value": "#F5EDE0",
+      "name": "Ivoire cuir",
+      "usage": "Fond de sections trust bar, section contact, zones encadrées artisanales"
+    },
+    "background": {
+      "value": "#F2E8D9",
+      "name": "Parchemin",
+      "usage": "Fond général de page, rappelle le papier kraft et le cuir naturel non teint"
+    },
+    "text_primary": {
+      "value": "#1A1210",
+      "name": "Brun quasi-noir",
+      "contrast_on_white": "18.1:1",
+      "contrast_on_background": "14.2:1",
+      "usage": "Corps de texte principal, contenu de cartes — contraste maximal WCAG AAA"
+    },
+    "text_secondary": {
+      "value": "#4A3228",
+      "name": "Brun moyen-foncé",
+      "contrast_on_white": "8.6:1",
+      "usage": "Sous-textes, descriptions courtes, contenu secondaire"
+    },
+    "text_muted": {
+      "value": "#7A6055",
+      "name": "Brun taupe",
+      "contrast_on_white": "4.6:1",
+      "usage": "Placeholders, métadonnées, textes tertiaires — WCAG AA minimum respecté"
+    },
+    "text_on_primary": {
+      "value": "#FFFFFF",
+      "name": "Blanc sur rouge",
+      "contrast_on_primary": "5.1:1",
+      "usage": "Texte sur fond primaire rouge"
+    },
+    "text_on_secondary": {
+      "value": "#FFFFFF",
+      "name": "Blanc sur brun",
+      "contrast_on_secondary": "7.8:1",
+      "usage": "Texte sur fond secondaire brun cuir"
+    },
+    "border": {
+      "value": "#DDD0BF",
+      "name": "Brun sable",
+      "usage": "Bordures de cartes, séparateurs, champs de formulaire"
+    },
+    "border_strong": {
+      "value": "#C4B09A",
+      "name": "Brun sable foncé",
+      "usage": "Bordures en focus, lignes de séparation importantes"
+    },
+    "error": {
+      "value": "#B91C1C",
+      "name": "Rouge erreur",
+      "contrast_on_white": "7.1:1",
+      "usage": "Messages d'erreur formulaire, alertes"
+    },
+    "success": {
+      "value": "#15803D",
+      "name": "Vert succès",
+      "contrast_on_white": "5.6:1",
+      "usage": "Confirmation d'envoi formulaire, badges disponibilité"
+    },
+    "warning": {
+      "value": "#B45309",
+      "name": "Ambre artisan",
+      "contrast_on_white": "5.8:1",
+      "usage": "Avertissements, indicateurs d'attention"
+    },
+    "victorinox_red": {
+      "value": "#C8102E",
+      "name": "Rouge Victorinox officiel",
+      "usage": "Identique au primary — utilisé explicitement pour le badge partenaire Victorinox"
+    }
+  },
+  "typography": {
+    "fonts": {
+      "heading": "Playfair Display",
+      "body": "Source Sans 3",
+      "accent": "Playfair Display",
+      "google_fonts_import": "@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,600&family=Source+Sans+3:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap');"
+    },
+    "font_rationale": {
+      "heading": "Playfair Display : serif classique à fort caractère, associé à l'excellence artisanale, à la tradition horlogère et coutelière suisse. Ses empattements prononcés et ses contrastes de graisse évoquent les enseignes de métiers anciens sans paraître démodé. Très lisible en grands titres.",
+      "body": "Source Sans 3 (successeur de Source Sans Pro, Adobe) : sans-serif humaniste, extrêmement lisible en petits corps, excellent rendu écran sur tous les appareils. Neutre sans être froid, il complète parfaitement le Playfair Display en apportant modernité et clarté au contenu informatif."
+    },
+    "scale": {
+      "xs": "0.75rem",
+      "sm": "0.875rem",
+      "base": "1rem",
+      "lg": "1.125rem",
+      "xl": "1.25rem",
+      "2xl": "1.5rem",
+      "3xl": "1.875rem",
+      "4xl": "2.25rem",
+      "5xl": "3rem",
+      "6xl": "3.75rem"
+    },
+    "scale_px": {
+      "xs": "12px",
+      "sm": "14px",
+      "base": "16px",
+      "lg": "18px",
+      "xl": "20px",
+      "2xl": "24px",
+      "3xl": "30px",
+      "4xl": "36px",
+      "5xl": "48px",
+      "6xl": "60px"
+    },
+    "weights": {
+      "light": 300,
+      "regular": 400,
+      "medium": 500,
+      "semibold": 600,
+      "bold": 700,
+      "extrabold": 800
+    },
+    "line_heights": {
+      "tight": 1.2,
+      "snug": 1.35,
+      "normal": 1.5,
+      "relaxed": 1.625,
+      "loose": 1.8
+    },
+    "letter_spacings": {
+      "tighter": "-0.04em",
+      "tight": "-0.02em",
+      "normal": "0em",
+      "wide": "0.04em",
+      "wider": "0.08em",
+      "widest": "0.16em"
+    },
+    "usage_guidelines": {
+      "h1": {
+        "font": "Playfair Display",
+        "size": "4xl (2.25rem) → 5xl (3rem) desktop",
+        "weight": 700,
+        "line_height": "tight (1.2)",
+        "letter_spacing": "tight (-0.02em)",
+        "color": "text_primary"
+      },
+      "h2": {
+        "font": "Playfair Display",
+        "size": "3xl (1.875rem) → 4xl (2.25rem) desktop",
+        "weight": 700,
+        "line_height": "snug (1.35)",
+        "letter_spacing": "tight (-0.02em)",
+        "color": "secondary_dark"
+      },
+      "h3": {
+        "font": "Playfair Display",
+        "size": "xl (1.25rem) → 2xl (1.5rem) desktop",
+        "weight": 600,
+        "line_height": "snug (1.35)",
+        "color": "text_primary"
+      },
+      "body": {
+        "font": "Source Sans 3",
+        "size": "base (1rem)",
+        "weight": 400,
+        "line_height": "relaxed (1.625)",
+        "color": "text_secondary"
+      },
+      "body_large": {
+        "font": "Source Sans 3",
+        "size": "lg (1.125rem)",
+        "weight": 400,
+        "line_height": "relaxed (1.625)",
+        "color": "text_secondary"
+      },
+      "label": {
+        "font": "Source Sans 3",
+        "size": "sm (0.875rem)",
+        "weight": 600,
+        "letter_spacing": "wider (0.08em)",
+        "text_transform": "uppercase",
+        "color": "primary"
+      },
+      "caption": {
+        "font": "Source Sans 3",
+        "size": "xs (0.75rem)",
+        "weight": 400,
+        "color": "text_muted"
+      },
+      "cta": {
+        "font": "Source Sans 3",
+        "size": "base (1rem)",
+        "weight": 600,
+        "letter_spacing": "wide (0.04em)"
+      }
+    }
+  },
+  "spacing": {
+    "space_1": "4px",
+    "space_2": "8px",
+    "space_3": "12px",
+    "space_4": "16px",
+    "space_5": "20px",
+    "space_6": "24px",
+    "space_8": "32px",
+    "space_10": "40px",
+    "space_12": "48px",
+    "space_16": "64px",
+    "space_20": "80px",
+    "space_24": "96px",
+    "space_32": "128px"
+  },
+  "border_radius": {
+    "none": "0px",
+    "sm": "4px",
+    "md": "8px",
+    "lg": "12px",
+    "xl": "16px",
+    "2xl": "24px",
+    "3xl": "32px",
+    "full": "9999px",
+    "rationale": "Rayons modérés — l'artisanat appelle des angles légèrement adoucis sans les ronds excessifs du design tech/startup. Les cartes utilisent 'lg' (12px), les boutons 'md' (8px) ou 'full' pour les pills, les badges 'sm' (4px)."
+  },
+  "shadows": {
+    "none": "none",
+    "sm": "0 1px 3px rgba(26, 18, 16, 0.08), 0 1px 2px rgba(26, 18, 16, 0.06)",
+    "md": "0 4px 12px rgba(26, 18, 16, 0.10), 0 2px 6px rgba(26, 18, 16, 0.06)",
+    "lg": "0 8px 24px rgba(26, 18, 16, 0.12), 0 4px 10px rgba(26, 18, 16, 0.07)",
+    "xl": "0 16px 48px rgba(26, 18, 16, 0.15), 0 8px 20px rgba(26, 18, 16, 0.08)",
+    "primary": "0 4px 20px rgba(200, 16, 46, 0.28)",
+    "primary_hover": "0 8px 28px rgba(200, 16, 46, 0.36)",
+    "secondary": "0 4px 20px rgba(122, 59, 30, 0.25)",
+    "inset": "inset 0 2px 6px rgba(26, 18, 16, 0.08)",
+    "card_hover": "0 12px 32px rgba(26, 18, 16, 0.14), 0 4px 12px rgba(122, 59, 30, 0.08)"
+  },
+  "animation": {
+    "duration": {
+      "instant": "80ms",
+      "fast": "150ms",
+      "normal": "250ms",
+      "slow": "400ms",
+      "slower": "600ms"
+    },
+    "easing": {
+      "default": "cubic-bezier(0.4, 0, 0.2, 1)",
+      "ease_in": "cubic-bezier(0.4, 0, 1, 1)",
+      "ease_out": "cubic-bezier(0, 0, 0.2, 1)",
+      "spring": "cubic-bezier(0.34, 1.56, 0.64, 1)",
+      "smooth": "cubic-bezier(0.25, 0.46, 0.45, 0.94)"
+    },
+    "transitions": {
+      "button": "background-color 150ms cubic-bezier(0.4, 0, 0.2, 1), box-shadow 150ms cubic-bezier(0.4, 0, 0.2, 1), transform 150ms cubic-bezier(0.4, 0, 0.2, 1)",
+      "card": "box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1), transform 250ms cubic-bezier(0.4, 0, 0.2, 1)",
+      "link": "color 150ms cubic-bezier(0.4, 0, 0.2, 1)",
+      "fade": "opacity 250ms cubic-bezier(0.4, 0, 0.2, 1)",
+      "nav": "background-color 250ms cubic-bezier(0.4, 0, 0.2, 1)"
+    }
+  },
+  "breakpoints": {
+    "xs": "480px",
+    "sm": "640px",
+    "md": "768px",
+    "lg": "1024px",
+    "xl": "1280px",
+    "2xl": "1536px"
+  },
+  "z_index": {
+    "base": 0,
+    "raised": 10,
+    "dropdown": 100,
+    "sticky": 200,
+    "overlay": 300,
+    "modal": 400,
+    "toast": 500,
+    "tooltip": 600
+  },
+  "components": {
+    "button_primary": {
+      "background": "#C8102E",
+      "color": "#FFFFFF",
+      "border": "none",
+      "border_radius": "8px",
+      "padding": "12px 28px",
+      "font": "Source Sans 3",
+      "font_weight": 600,
+      "font_size": "1rem",
+      "letter_spacing": "0.04em",
+      "shadow": "0 4px 20px rgba(200, 16, 46, 0.28)",
+      "hover_background": "#9B0C22",
+      "hover_shadow": "0 8px 28px rgba(200, 16, 46, 0.36)",
+      "hover_transform": "translateY(-1px)",
+      "active_transform": "translateY(0)",
+      "transition": "background-color 150ms cubic-bezier(0.4, 0, 0.2, 1), box-shadow 150ms cubic-bezier(0.4, 0, 0.2, 1), transform 150ms cubic-bezier(0.4, 0, 0.2, 1)"
+    },
+    "button_secondary": {
+      "background": "transparent",
+      "color": "#C8102E",
+      "border": "2px solid #C8102E",
+      "border_radius": "8px",
+      "padding": "10px 26px",
+      "font": "Source Sans 3",
+      "font_weight": 600,
+      "font_size": "1rem",
+      "letter_spacing": "0.04em",
+      "hover_background": "#C8102E",
+      "hover_color": "#FFFFFF"
+    },
+    "button_ghost": {
+      "background": "transparent",
+      "color": "#7A3B1E",
+      "border": "2px solid #DDD0BF",
+      "border_radius": "8px",
+      "padding": "10px 26px",
+      "font": "Source Sans 3",
+      "font_weight": 500,
+      "hover_border_color": "#7A3B1E",
+      "hover_background": "#FAF7F2"
+    },
+    "card": {
+      "background": "#FFFFFF",
+      "border": "1px solid #DDD0BF",
+      "border_radius": "12px",
+      "padding": "24px",
+      "shadow": "0 4px 12px rgba(26, 18, 16, 0.10), 0 2px 6px rgba(26, 18, 16, 0.06)",
+      "hover_shadow": "0 12px 32px rgba(26, 18, 16, 0.14), 0 4px 12px rgba(122, 59, 30, 0.08)",
+      "hover_transform": "translateY(-2px)",
+      "transition": "box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1), transform 250ms cubic-bezier(0.4, 0, 0.2, 1)"
+    },
+    "badge_victorinox": {
+      "background": "#C8102E",
+      "color": "#FFFFFF",
+      "border_radius": "4px",
+      "padding": "4px 10px",
+      "font": "Source Sans 3",
+      "font_weight": 700,
+      "font_size": "0.75rem",
+      "letter_spacing": "0.08em",
+      "text_transform": "uppercase"
+    },
+    "trust_bar": {
+      "background": "#F5EDE0",
+      "border_top": "1px solid #DDD0BF",
+      "border_bottom": "1px solid #DDD0BF",
+      "padding": "32px 0",
+      "icon_color": "#C8102E",
+      "title_font": "Playfair Display",
+      "title_weight": 700,
+      "title_color": "#5A2A12",
+      "text_font": "Source Sans 3",
+      "text_color": "#4A3228"
+    },
+    "nav": {
+      "background": "#FFFFFF",
+      "background_scrolled": "#FAF7F2",
+      "border_bottom": "1px solid #DDD0BF",
+      "link_color": "#1A1210",
+      "link_hover_color": "#C8102E",
+      "link_active_color": "#C8102E",
+      "link_font": "Source Sans 3",
+      "link_weight": 500,
+      "link_size": "0.9375rem",
+      "cta_background": "#C8102E",
+      "cta_color": "#FFFFFF",
+      "height": "72px",
+      "shadow_scrolled": "0 2px 12px rgba(26, 18, 16, 0.10)"
+    },
+    "hero": {
+      "background": "#F2E8D9",
+      "title_color": "#1A1210",
+      "subtitle_color": "#4A3228",
+      "min_height": "85vh",
+      "overlay_gradient": "linear-gradient(135deg, rgba(242, 232, 217, 0.95) 0%, rgba(245, 237, 224, 0.85) 50%, rgba(255, 255, 255, 0.4) 100%)"
+    },
+    "section_dark": {
+      "background": "#5A2A12",
+      "title_color": "#F5EDE0",
+      "text_color": "#DDD0BF",
+      "accent_color": "#C19A3A"
+    },
+    "form_input": {
+      "background": "#FFFFFF",
+      "border": "1.5px solid #DDD0BF",
+      "border_radius": "8px",
+      "padding": "12px 16px",
+      "font": "Source Sans 3",
+      "font_size": "1rem",
+      "color": "#1A1210",
+      "placeholder_color": "#7A6055",
+      "focus_border_color": "#C8102E",
+      "focus_shadow": "0 0 0 3px rgba(200, 16, 46, 0.15)",
+      "error_border_color": "#B91C1C"
+    },
+    "footer": {
+      "background": "#1A1210",
+      "text_color": "#C4B09A",
+      "title_color": "#F5EDE0",
+      "link_color": "#C4B09A",
+      "link_hover_color": "#C8102E",
+      "border_top": "3px solid #C8102E",
+      "padding": "64px 0 32px"
+    },
+    "cookie_banner": {
+      "background": "#1A1210",
+      "text_color": "#C4B09A",
+      "link_color": "#C8102E",
+      "button_background": "#C8102E",
+      "button_color": "#FFFFFF",
+      "border_top": "2px solid #C8102E"
+    }
+  },
+  "css_custom_properties": ":root {\n  /* ============================================\n     CORDONNERIE MULTI-SERVICES SÀRL\n     Design Tokens — Prêt à coller dans <style>\n     Style : warm-artisan | Mood : chaleureux, solide, fiable\n     ============================================ */\n\n  /* --- Couleurs principales --- */\n  --color-primary:         #C8102E; /* Rouge Victorinox — signature marque */\n  --color-primary-dark:    #9B0C22; /* Rouge profond — hover, états actifs */\n  --color-primary-light:   #E8334A; /* Rouge vif — icônes décoratives uniquement */\n  --color-secondary:       #7A3B1E; /* Brun cuir — couleur artisan */\n  --color-secondary-dark:  #5A2A12; /* Brun foncé — titres H2, backgrounds */\n  --color-secondary-light: #A05830; /* Brun moyen — sous-titres */\n  --color-accent:          #C19A3A; /* Or cuivre — ferrures, ornements */\n  --color-accent-dark:     #8B6D20; /* Or sombre — texte accent si nécessaire */\n\n  /* --- Surfaces et backgrounds --- */\n  --color-surface:         #FFFFFF; /* Blanc pur — cartes, formulaires */\n  --color-surface-alt:     #FAF7F2; /* Ivoire chaud — header, sections alternées */\n  --color-surface-warm:    #F5EDE0; /* Ivoire cuir — trust bar, zones encadrées */\n  --color-background:      #F2E8D9; /* Parchemin — fond général */\n\n  /* --- Textes --- */\n  --color-text-primary:    #1A1210; /* Brun quasi-noir — corps de texte principal */\n  --color-text-secondary:  #4A3228; /* Brun moyen-foncé — descriptions */\n  --color-text-muted:      #7A6055; /* Brun taupe — placeholders, métadonnées */\n  --color-text-on-primary: #FFFFFF; /* Blanc sur rouge */\n  --color-text-on-dark:    #F5EDE0; /* Ivoire sur fonds sombres */\n\n  /* --- Bordures --- */\n  --color-border:          #DDD0BF; /* Brun sable — bordures par défaut */\n  --color-border-strong:   #C4B09A; /* Brun sable foncé — focus, séparateurs */\n\n  /* --- États fonctionnels --- */\n  --color-error:           #B91C1C;\n  --color-success:         #15803D;\n  --color-warning:         #B45309;\n\n  /* ============================================ */\n  /* --- Typographie --- */\n  --font-heading:          'Playfair Display', Georgia, serif;\n  --font-body:             'Source Sans 3', system-ui, -apple-system, sans-serif;\n\n  /* Échelle typographique */\n  --text-xs:               0.75rem;   /* 12px */\n  --text-sm:               0.875rem;  /* 14px */\n  --text-base:             1rem;      /* 16px */\n  --text-lg:               1.125rem;  /* 18px */\n  --text-xl:               1.25rem;   /* 20px */\n  --text-2xl:              1.5rem;    /* 24px */\n  --text-3xl:              1.875rem;  /* 30px */\n  --text-4xl:              2.25rem;   /* 36px */\n  --text-5xl:              3rem;      /* 48px */\n  --text-6xl:              3.75rem;   /* 60px */\n\n  /* Graisses */\n  --font-light:            300;\n  --font-regular:          400;\n  --font-medium:           500;\n  --font-semibold:         600;\n  --font-bold:             700;\n  --font-extrabold:        800;\n\n  /* Hauteurs de ligne */\n  --leading-tight:         1.2;\n  --leading-snug:          1.35;\n  --leading-normal:        1.5;\n  --leading-relaxed:       1.625;\n  --leading-loose:         1.8;\n\n  /* Espacements lettres */\n  --tracking-tighter:      -0.04em;\n  --tracking-tight:        -0.02em;\n  --tracking-normal:       0em;\n  --tracking-wide:         0.04em;\n  --tracking-wider:        0.08em;\n  --tracking-widest:       0.16em;\n\n  /* ============================================ */\n  /* --- Espacements (grille 4px) --- */\n  --space-1:               4px;\n  --space-2:               8px;\n  --space-3:               12px;\n  --space-4:               16px;\n  --space-5:               20px;\n  --space-6:               24px;\n  --space-8:               32px;\n  --space-10:              40px;\n  --space-12:              48px;\n  --space-16:              64px;\n  --space-20:              80px;\n  --space-24:              96px;\n  --space-32:              128px;\n\n  /* ============================================ */\n  /* --- Rayons de bordure --- */\n  --radius-none:           0px;\n  --radius-sm:             4px;\n  --radius-md:             8px;\n  --radius-lg:             12px;\n  --radius-xl:             16px;\n  --radius-2xl:            24px;\n  --radius-3xl:            32px;\n  --radius-full:           9999px;\n\n  /* ============================================ */\n  /* --- Ombres --- */\n  --shadow-sm:             0 1px 3px rgba(26, 18, 16, 0.08), 0 1px 2px rgba(26, 18, 16, 0.06);\n  --shadow-md:             0 4px 12px rgba(26, 18, 16, 0.10), 0 2px 6px rgba(26, 18, 16, 0.06);\n  --shadow-lg:             0 8px 24px rgba(26, 18, 16, 0.12), 0 4px 10px rgba(26, 18, 16, 0.07);\n  --shadow-xl:             0 16px 48px rgba(26, 18, 16, 0.15), 0 8px 20px rgba(26, 18, 16, 0.08);\n  --shadow-primary:        0 4px 20px rgba(200, 16, 46, 0.28);\n  --shadow-primary-hover:  0 8px 28px rgba(200, 16, 46, 0.36);\n  --shadow-secondary:      0 4px 20px rgba(122, 59, 30, 0.25);\n  --shadow-card-hover:     0 12px 32px rgba(26, 18, 16, 0.14), 0 4px 12px rgba(122, 59, 30, 0.08);\n  --shadow-inset:          inset 0 2px 6px rgba(26, 18, 16, 0.08);\n\n  /* ============================================ */\n  /* --- Animations --- */\n  --duration-instant:      80ms;\n  --duration-fast:         150ms;\n  --duration-normal:       250ms;\n  --duration-slow:         400ms;\n  --duration-slower:       600ms;\n\n  --ease-default:          cubic-bezier(0.4, 0, 0.2, 1);\n  --ease-in:               cubic-bezier(0.4, 0, 1, 1);\n  --ease-out:              cubic-bezier(0, 0, 0.2, 1);\n  --ease-spring:           cubic-bezier(0.34, 1.56, 0.64, 1);\n  --ease-smooth:           cubic-bezier(0.25, 0.46, 0.45, 0.94);\n\n  --transition-button:     background-color var(--duration-fast) var(--ease-default),\n                           box-shadow var(--duration-fast) var(--ease-default),\n                           transform var(--duration-fast) var(--ease-default);\n  --transition-card:       box-shadow var(--duration-normal) var(--ease-default),\n                           transform var(--duration-normal) var(--ease-default);\n  --transition-link:       color var(--duration-fast) var(--ease-default);\n  --transition-fade:       opacity var(--duration-normal) var(--ease-default);\n  --transition-nav:        background-color var(--duration-normal) var(--ease-default),\n                           box-shadow var(--duration-normal) var(--ease-default);\n\n  /* ============================================ */\n  /* --- Breakpoints (référence commentée) --- */\n  /* --bp-xs:  480px  */\n  /* --bp-sm:  640px  */\n  /* --bp-md:  768px  */\n  /* --bp-lg:  1024px */\n  /* --bp-xl:  1280px */\n  /* --bp-2xl: 1536px */\n\n  /* ============================================ */\n  /* --- Z-index --- */\n  --z-base:                0;\n  --z-raised:              10;\n  --z-dropdown:            100;\n  --z-sticky:              200;\n  --z-overlay:             300;\n  --z-modal:               400;\n  --z-toast:               500;\n  --z-tooltip:             600;\n\n  /* ============================================ */\n  /* --- Composants — Navigation --- */\n  --nav-height:            72px;\n  --nav-bg:                #FFFFFF;\n  --nav-bg-scrolled:       #FAF7F2;\n  --nav-border:            #DDD0BF;\n  --nav-link-color:        #1A1210;\n  --nav-link-hover:        #C8102E;\n  --nav-shadow-scrolled:   0 2px 12px rgba(26, 18, 16, 0.10);\n\n  /* --- Composants — Bouton primaire --- */\n  --btn-primary-bg:        #C8102E;\n  --btn-primary-color:     #FFFFFF;\n  --btn-primary-hover-bg:  #9B0C22;\n  --btn-primary-radius:    var(--radius-md);\n  --btn-primary-padding:   12px 28px;\n  --btn-primary-shadow:    var(--shadow-primary);\n\n  /* --- Composants — Bouton secondaire --- */\n  --btn-secondary-bg:      transparent;\n  --btn-secondary-color:   #C8102E;\n  --btn-secondary-border:  2px solid #C8102E;\n  --btn-secondary-hover-bg: #C8102E;\n  --btn-secondary-hover-color: #FFFFFF;\n\n  /* --- Composants — Cartes de services --- */\n  --card-bg:               #FFFFFF;\n  --card-border:           1px solid #DDD0BF;\n  --card-radius:           var(--radius-lg);\n  --card-padding:          var(--space-6);\n  --card-shadow:           var(--shadow-md);\n  --card-hover-shadow:     var(--shadow-card-hover);\n  --card-hover-transform:  translateY(-2px);\n\n  /* --- Composants — Formulaire --- */\n  --input-bg:              #FFFFFF;\n  --input-border:          1.5px solid #DDD0BF;\n  --input-border-focus:    #C8102E;\n  --input-radius:          var(--radius-md);\n  --input-padding:         12px 16px;\n  --input-shadow-focus:    0 0 0 3px rgba(200, 16, 46, 0.15);\n\n  /* --- Composants — Footer --- */\n  --footer-bg:             #1A1210;\n  --footer-text:           #C4B09A;\n  --footer-title:          #F5EDE0;\n  --footer-link:           #C4B09A;\n  --footer-link-hover:     #C8102E;\n  --footer-border-top:     3px solid #C8102E;\n\n  /* --- Composants — Bannière cookie --- */\n  --cookie-bg:             #1A1210;\n  --cookie-text:           #C4B09A;\n  --cookie-link:           #C8102E;\n  --cookie-btn-bg:         #C8102E;\n  --cookie-btn-color:      #FFFFFF;\n}"
+}

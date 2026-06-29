@@ -1,0 +1,291 @@
+[
+  {
+    "url": "https://www.cordonnerie-sion.ch/",
+    "title": "Cordonnerie Multi-Services Sàrl | Sion",
+    "h1": ["Artisan-cordonnier à Sion"],
+    "h2": [
+      "Une cordonnerie expérimentée au service de vos besoins depuis 2004",
+      "Un accueil privilégié"
+    ],
+    "h3": [
+      "En savoir plus",
+      "Horaires d'ouverture"
+    ],
+    "paragraphs": [
+      "La Cordonnerie Multi-Services Sàrl vous conseille du lundi au samedi, en plein cœur de Sion. Nous sommes partenaires officiels de Victorinox.",
+      "Depuis 2004, notre cordonnerie met son expertise à votre service pour répondre à vos besoins en entretien et réparation.",
+      "Nous vous conseillons en six langues."
+    ],
+    "images": [
+      {
+        "src": "https://le-de.cdn-website.com/c7655ccd21fa48e39d5a322607a67e62/dms3rep/multi/opt/Cordonnerie-Multi-Services-Sarl-Logo-1920w.jpg",
+        "alt": "Cordonnerie-Multi-Services-Sarl-Logo",
+        "role": "logo"
+      }
+    ],
+    "forms": [],
+    "contact_data": {
+      "address": "Place du Midi 52, Sion, Valais 1950, Suisse",
+      "phone": "027 322 00 92",
+      "email": "infocordonnerie@netplus.ch",
+      "hours": {
+        "lundi": "8:30 - 12:00",
+        "mardi_vendredi": "8:30 - 12:00 / 13:30 - 18:30",
+        "samedi": "8:30 - 12:00 / 13:30 - 17:00",
+        "dimanche": "Fermé"
+      }
+    },
+    "links_internal": ["/", "/Nos-services", "/contact"],
+    "links_external": ["https://www.facebook.com/cakolli7118/?fref=ts"]
+  },
+  {
+    "url": "https://www.cordonnerie-sion.ch/Nos-services",
+    "title": "Nos services | Cordonnerie Multi-Services Sàrl | Sion",
+    "h1": ["Les services multiples de Cordonnerie Multi-Services Sàrl"],
+    "h2": ["Nos services"],
+    "h3": [
+      "Victorinox",
+      "Maroquinerie",
+      "Cordonnerie",
+      "Clés",
+      "Gravures",
+      "Vente",
+      "Aiguisage",
+      "Coutellerie",
+      "Entretien",
+      "Retrouvez-nous dans notre Cordonnerie Multi-Services à Sion..."
+    ],
+    "paragraphs": [
+      "Venez découvrir nos différents services pour répondre au mieux à vos besoins.",
+      "Partenaire officiel de Victorinox. Vous pourrez découvrir à la Cordonnerie Multi-Services Sàrl 99 % des modèles de couteaux de poche et de cuisine du catalogue Victorinox.",
+      "Arrivage fréquent de maroquinerie italienne de haute qualité (ceintures, sacs, porte-monnaie,...).",
+      "Ceintures en cuir de haute qualité.",
+      "Sacs en cuir Old Tuscani (Chiarugi) : grand choix.",
+      "Porte-cartes sécurisés Secrid.",
+      "Toutes réparations sur les chaussures : tiges, talons, semelles extérieures, semelles intérieures, fermetures éclairs, boucles, etc.",
+      "Coutures diverses (fermetures éclairs pour vestes, etc.).",
+      "Cylindres simples et clés spéciales protégées.",
+      "Clés de caves et de chambres.",
+      "Cadenas, porte-clés et clés de voitures transpondeurs.",
+      "Télécommandes de garages et portails.",
+      "Coffres-forts.",
+      "Gravures pour boîtes aux lettres, porte d'entrée, plaques commerciales de toutes tailles, stylos, bijoux, couteaux. D'autres objets peuvent être gravés sur demande.",
+      "Tampons des marques Colop et Trodat disponibles en tous modèles avec options de typographie, taille et couleur personnalisées.",
+      "Piles de montre, toutes marques.",
+      "Bracelets de montre HIRSCH proposant un large éventail de modèles et coloris.",
+      "Articles d'entretien pour chaussures.",
+      "Services d'affûtage pour couteaux et ciseaux.",
+      "La boutique propose 99 % des modèles de couteaux de poche et de cuisine de Victorinox, complétés par d'autres marques : Laguiole, Opinel, Thiers, Buck, Old Bear, CRK et Spyderco.",
+      "Semelles intérieures saisonnières, lacets, embauchoirs variés, tendeurs de bottes, tire-bottes et coffrets cadeaux Famaco Paris. Marques : Saphir, Famaco, Prestige, Ringelspitz.",
+      "Contactez-nous dès aujourd'hui ! Pour toute question, demande de devis..."
+    ],
+    "images": [
+      {
+        "src": "https://le-de.cdn-website.com/c7655ccd21fa48e39d5a322607a67e62/dms3rep/multi/opt/Cordonnerie-Multi-Services-Sarl-Logo-1920w.jpg",
+        "alt": "Cordonnerie-Multi-Services-Sarl-Logo",
+        "role": "logo"
+      },
+      {
+        "src": "https://le-de.cdn-website.com/c7655ccd21fa48e39d5a322607a67e62/dms3rep/multi/opt/victorinox-1920w.jpg",
+        "alt": "Victorinox",
+        "role": "service"
+      },
+      {
+        "src": "https://le-de.cdn-website.com/c7655ccd21fa48e39d5a322607a67e62/dms3rep/multi/opt/Cordonnerie-Multi-Services-Sarl-5-1920w.jpg",
+        "alt": "Service 5",
+        "role": "service"
+      },
+      {
+        "src": "https://le-de.cdn-website.com/c7655ccd21fa48e39d5a322607a67e62/dms3rep/multi/opt/Cordonnerie-Multi-Services-Sarl-6-1920w.jpg",
+        "alt": "Service 6",
+        "role": "service"
+      },
+      {
+        "src": "https://le-de.cdn-website.com/c7655ccd21fa48e39d5a322607a67e62/dms3rep/multi/opt/Cordonnerie-Multi-Services-Sarl-7-1920w.jpg",
+        "alt": "Service 7",
+        "role": "service"
+      },
+      {
+        "src": "https://le-de.cdn-website.com/c7655ccd21fa48e39d5a322607a67e62/dms3rep/multi/opt/Cordonnerie-Multi-Services-Sarl-8-1920w.jpg",
+        "alt": "Service 8",
+        "role": "service"
+      },
+      {
+        "src": "https://le-de.cdn-website.com/c7655ccd21fa48e39d5a322607a67e62/dms3rep/multi/opt/Cordonnerie-Multi-Services-Sarl-9-1920w.jpg",
+        "alt": "Service 9",
+        "role": "service"
+      },
+      {
+        "src": "https://le-de.cdn-website.com/c7655ccd21fa48e39d5a322607a67e62/dms3rep/multi/opt/Cordonnerie-Multi-Services-Sarl-10-1920w.jpg",
+        "alt": "Service 10",
+        "role": "service"
+      },
+      {
+        "src": "https://le-de.cdn-website.com/c7655ccd21fa48e39d5a322607a67e62/dms3rep/multi/opt/Cordonnerie-Multi-Services-Sarl-11-1920w.jpg",
+        "alt": "Service 11",
+        "role": "service"
+      },
+      {
+        "src": "https://le-de.cdn-website.com/c7655ccd21fa48e39d5a322607a67e62/dms3rep/multi/opt/Cordonnerie-Multi-Services-Sarl-12-1920w.jpg",
+        "alt": "Service 12",
+        "role": "service"
+      },
+      {
+        "src": "https://le-de.cdn-website.com/c7655ccd21fa48e39d5a322607a67e62/dms3rep/multi/opt/Cordonnerie-Multi-Services-Sarl-13-1920w.jpg",
+        "alt": "Service 13",
+        "role": "service"
+      },
+      {
+        "src": "https://le-de.cdn-website.com/c7655ccd21fa48e39d5a322607a67e62/dms3rep/multi/opt/Cordonnerie-Multi-Services-Sarl-14-1920w.jpg",
+        "alt": "Service 14",
+        "role": "service"
+      },
+      {
+        "src": "https://le-de.cdn-website.com/c7655ccd21fa48e39d5a322607a67e62/dms3rep/multi/opt/Cordonnerie-Multi-Services-Sarl-15-1920w.jpg",
+        "alt": "Service 15",
+        "role": "service"
+      },
+      {
+        "src": "https://le-de.cdn-website.com/c7655ccd21fa48e39d5a322607a67e62/dms3rep/multi/opt/Cordonnerie-Multi-Services-Sarl-16-1920w.jpg",
+        "alt": "Service 16",
+        "role": "service"
+      },
+      {
+        "src": "https://le-de.cdn-website.com/c7655ccd21fa48e39d5a322607a67e62/dms3rep/multi/opt/Cordonnerie-Multi-Services-Sarl-17-1920w.jpg",
+        "alt": "Service 17",
+        "role": "service"
+      },
+      {
+        "src": "https://le-de.cdn-website.com/c7655ccd21fa48e39d5a322607a67e62/dms3rep/multi/opt/Cordonnerie-Multi-Services-Sarl-18-1920w.jpg",
+        "alt": "Service 18",
+        "role": "service"
+      }
+    ],
+    "forms": [],
+    "contact_data": {
+      "phone": "027 322 00 92",
+      "email": "infocordonnerie@netplus.ch"
+    },
+    "links_internal": ["/", "/Nos-services", "/contact", "/Nos-services#Services"],
+    "links_external": ["https://www.facebook.com/cakolli7118/"]
+  },
+  {
+    "url": "https://www.cordonnerie-sion.ch/contact",
+    "title": "Contact | Cordonnerie Multi-Services Sàrl | Sion",
+    "h1": ["Demandez, nous répondons"],
+    "h2": [],
+    "h3": [],
+    "paragraphs": [
+      "Merci de nous contacter. Nous vous répondrons dans les meilleurs délais.",
+      "Oups, une erreur s'est produite lors de l'envoi de votre message."
+    ],
+    "images": [
+      {
+        "src": "https://le-de.cdn-website.com/c7655ccd21fa48e39d5a322607a67e62/dms3rep/multi/opt/Cordonnerie-Multi-Services-Sarl-Logo-1920w.jpg",
+        "alt": "Cordonnerie-Multi-Services-Sarl-Logo",
+        "role": "logo"
+      }
+    ],
+    "forms": [
+      {
+        "fields": [
+          {"label": "Nom", "type": "text", "required": true},
+          {"label": "E-mail", "type": "email", "required": true},
+          {"label": "Téléphone", "type": "tel", "required": true},
+          {"label": "Messages", "type": "textarea", "required": true}
+        ],
+        "submit_button": "Envoyer",
+        "action": "non spécifiée (probablement API interne localsearch/sitefree)",
+        "method": "POST"
+      }
+    ],
+    "contact_data": {
+      "address": "Place du Midi 52, Sion, Valais 1950, Suisse",
+      "phone": "027 322 00 92",
+      "email": "infocordonnerie@netplus.ch",
+      "hours": {
+        "lundi": "8:30 - 12:00",
+        "mardi": "8:30 - 12:00 / 13:30 - 18:30",
+        "mercredi": "8:30 - 12:00 / 13:30 - 18:30",
+        "jeudi": "8:30 - 12:00 / 13:30 - 18:30",
+        "vendredi": "8:30 - 12:00 / 13:30 - 18:30",
+        "samedi": "8:30 - 12:00 / 13:30 - 17:00",
+        "dimanche": "Fermé"
+      },
+      "google_maps": null
+    },
+    "links_internal": ["/", "/Nos-services", "/contact"],
+    "links_external": ["https://www.facebook.com/cakolli7118/"]
+  },
+  {
+    "url": "https://www.cordonnerie-sion.ch/privacy",
+    "title": "Politique de confidentialité | Cordonnerie Multi-Services Sàrl",
+    "h1": ["Politique de confidentialité"],
+    "h2": [
+      "Introduction",
+      "Nom et adresse du responsable",
+      "Catégories de données",
+      "Finalités du traitement",
+      "Base juridique",
+      "Publication et transmission",
+      "Durée de conservation",
+      "Sécurité",
+      "Vos droits",
+      "Cookies et outils d'analyse",
+      "Intégration d'offres tiers"
+    ],
+    "h3": [
+      "Sous-traitants des données",
+      "Partenaires contractuels",
+      "Transmission aux autorités"
+    ],
+    "paragraphs": [
+      "Cordonnerie Multi-Services Sàrl, Place du Midi 52, 1950 Sion, Suisse.",
+      "Données collectées : adresses IP, cookies, pages consultées, données de contact (nom, email, téléphone), informations de paiement, données de commandes.",
+      "Finalités : exécution de contrats, amélioration des services, marketing, respect des obligations légales, contrôle de qualité.",
+      "Transmission de données : à des sous-traitants situés en Suisse, Allemagne, Israël et États-Unis ; à des partenaires contractuels ; aux autorités si demande légale.",
+      "Durée de conservation : aussi longtemps que nécessaire pour l'objectif initial, avec obligations légales pouvant atteindre 10 ans.",
+      "Présence de cookies de session et permanents. L'utilisateur peut les bloquer via les paramètres navigateur.",
+      "Mention des outils d'analyse et de suivi Internet pour mesurer l'utilisation."
+    ],
+    "images": [],
+    "forms": [],
+    "contact_data": {
+      "address": "Place du Midi 52, 1950 Sion, Suisse",
+      "note": "Page politique de confidentialité — données du responsable de traitement"
+    },
+    "links_internal": ["/", "/Nos-services", "/contact", "/mentions-legales"],
+    "links_external": [],
+    "rgpd_note": "Politique de confidentialité complète présente. Pas de bannière cookie visible sur le site. Cookies de session et permanents utilisés."
+  },
+  {
+    "url": "https://www.cordonnerie-sion.ch/mentions-legales",
+    "title": "Mentions légales | Cordonnerie Multi-Services Sàrl | Sion",
+    "h1": ["Contact"],
+    "h2": ["Informations juridiques"],
+    "h3": [],
+    "paragraphs": [
+      "Raison sociale : Cordonnerie Multi-Services Sàrl",
+      "Adresse : Place Du Midi 52, 1950 Sion, Suisse",
+      "Téléphone : 027 322 00 92",
+      "E-mail : infocordonnerie@netplus.ch",
+      "Localité : Sion, Valais, Suisse",
+      "Les cookies sont de petits fichiers textes qui sont enregistrés sur votre ordinateur, lors de la visite du site, de façon temporaire ou durable. Leur fonction est d'analyser l'utilisation et permettre des améliorations. Les utilisateurs peuvent désactiver les cookies dans leur navigateur, bien que cela puisse affecter certaines fonctionnalités.",
+      "Site réalisé par localsearch.ch avec références vers local.ch et search.ch."
+    ],
+    "images": [],
+    "forms": [],
+    "contact_data": {
+      "address": "Place Du Midi 52, 1950 Sion, Suisse",
+      "phone": "027 322 00 92",
+      "email": "infocordonnerie@netplus.ch"
+    },
+    "links_internal": ["/", "/Nos-services", "/contact", "/contactez-nous", "/privacy", "/mentions-legales"],
+    "links_external": [
+      "https://www.localsearch.ch",
+      "https://www.local.ch",
+      "https://www.search.ch"
+    ],
+    "legal_note": "Site réalisé par localsearch.ch (builder sitefree.ch). Aucun numéro RC ou TVA mentionné."
+  }
+]
